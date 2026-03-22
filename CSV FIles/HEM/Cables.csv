@@ -1,0 +1,104 @@
+Part Type,Manufacturer,Part Name,HEM,In Shop,Price,Level,Level %,Steam Version,Style,Material,Pattern,Color,Can Sell,Start In Freebuild Inventory,DLC2 Random Jobs,Start In Career Inventory,Asset Path,Full Part Name
+Cable,,Loose Plastic Black,,Y,100,1,1,1.0,Loose,Plastic,Plain,Black,,Y,,Y,Prefabs/Cables/Loose_Plastic_Black,Loose Plastic Black
+Cable,,Loose Plastic Light Grey,,Y,100,1,1,1.0,Loose,Plastic,Plain,Light Grey,,Y,,Y,Prefabs/Cables/Loose_Plastic_Light_Grey,Loose Plastic Light Grey
+Cable,,Loose Plastic White,,Y,100,1,1,1.0,Loose,Plastic,Plain,White,,Y,,Y,Prefabs/Cables/Loose_Plastic_White,Loose Plastic White
+Cable,,Ribbon Braided Black,,Y,200,9,1,1.0,Ribbon,Braided,Plain,Black,,Y,,,Prefabs/Cables/Ribbon_Braided_Black,Ribbon Braided Black
+Cable,,Ribbon Braided Blue,,Y,200,10,1,1.0,Ribbon,Braided,Plain,Blue,,Y,,,Prefabs/Cables/Ribbon_Braided_Blue,Ribbon Braided Blue
+Cable,,Ribbon Braided Cyan,,Y,200,13,1,1.0,Ribbon,Braided,Plain,Cyan,,Y,,,Prefabs/Cables/Ribbon_Braided_Cyan,Ribbon Braided Cyan
+Cable,,Ribbon Braided Dark Grey,,Y,200,13,1,1.0,Ribbon,Braided,Plain,Dark Grey,,Y,,,Prefabs/Cables/Ribbon_Braided_Grey_Dark,Ribbon Braided Dark Grey
+Cable,,Ribbon Braided Green,,Y,200,11,1,1.0,Ribbon,Braided,Plain,Green,,Y,,,Prefabs/Cables/Ribbon_Braided_Green,Ribbon Braided Green
+Cable,,Ribbon Braided Light Grey,,Y,200,13,1,1.0,Ribbon,Braided,Plain,Light Grey,,Y,,,Prefabs/Cables/Ribbon_Braided_Grey_Light,Ribbon Braided Light Grey
+Cable,,Ribbon Braided Lime,,Y,200,13,1,1.0,Ribbon,Braided,Plain,Lime,,Y,,,Prefabs/Cables/Ribbon_Braided_Lime,Ribbon Braided Lime
+Cable,,Ribbon Braided Orange,,Y,200,11,1,1.0,Ribbon,Braided,Plain,Orange,,Y,,,Prefabs/Cables/Ribbon_Braided_Orange,Ribbon Braided Orange
+Cable,,Ribbon Braided Pink,,Y,200,12,1,1.0,Ribbon,Braided,Plain,Pink,,Y,,,Prefabs/Cables/Ribbon_Braided_Pink,Ribbon Braided Pink
+Cable,,Ribbon Braided Purple,,Y,200,12,1,1.0,Ribbon,Braided,Plain,Purple,,Y,,,Prefabs/Cables/Ribbon_Braided_Purple,Ribbon Braided Purple
+Cable,,Ribbon Braided Rainbow,,Y,400,30,1,1.0,Ribbon,Braided,,Rainbow,,Y,,,Prefabs/Cables/Ribbon_Braided_Rainbow,Ribbon Braided Rainbow
+Cable,,Ribbon Braided Red,,Y,200,10,1,1.0,Ribbon,Braided,Plain,Red,,Y,,,Prefabs/Cables/Ribbon_Braided_Red,Ribbon Braided Red
+Cable,,Ribbon Braided White,,Y,200,9,1,1.0,Ribbon,Braided,Plain,White,,Y,,,Prefabs/Cables/Ribbon_Braided_White,Ribbon Braided White
+Cable,,Ribbon Braided Yellow,,Y,200,13,1,1.0,Ribbon,Braided,Plain,Yellow,,Y,,,Prefabs/Cables/Ribbon_Braided_Yellow,Ribbon Braided Yellow
+Cable,,Ribbon Plastic Black,,Y,100,1,1,1.0,Ribbon,Plastic,Plain,Black,,Y,,,Prefabs/Cables/Ribbon_Plastic_Black,Ribbon Plastic Black
+Cable,,Ribbon Plastic Blue,,Y,100,5,1,1.0,Ribbon,Plastic,Plain,Blue,,Y,,,Prefabs/Cables/Ribbon_Plastic_Blue,Ribbon Plastic Blue
+Cable,,Ribbon Plastic Cyan,,Y,100,8,1,1.0,Ribbon,Plastic,Plain,Cyan,,Y,,,Prefabs/Cables/Ribbon_Plastic_Cyan,Ribbon Plastic Cyan
+Cable,,Ribbon Plastic Dark Grey,,Y,100,8,1,1.0,Ribbon,Plastic,Plain,Dark Grey,,Y,,,Prefabs/Cables/Ribbon_Plastic_Grey_Dark,Ribbon Plastic Dark Grey
+Cable,,Ribbon Plastic Duo Black Blue,,Y,400,19,1,1.0,Ribbon,Plastic,Duo,Blue,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Blue,Ribbon Plastic Duo Black Blue
+Cable,,Ribbon Plastic Duo Black Cyan,,Y,400,21,1,1.0,Ribbon,Plastic,Duo,Cyan,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Cyan,Ribbon Plastic Duo Black Cyan
+Cable,,Ribbon Plastic Duo Black Green,,Y,400,20,1,1.0,Ribbon,Plastic,Duo,Green,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Green,Ribbon Plastic Duo Black Green
+Cable,,Ribbon Plastic Duo Black Light Grey,,Y,400,19,1,1.0,Ribbon,Plastic,Duo,Light Grey,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Light_Grey,Ribbon Plastic Duo Black Light Grey
+Cable,,Ribbon Plastic Duo Black Lime,,Y,400,21,1,1.0,Ribbon,Plastic,Duo,Lime,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Lime,Ribbon Plastic Duo Black Lime
+Cable,,Ribbon Plastic Duo Black Orange,,Y,400,20,1,1.0,Ribbon,Plastic,Duo,Orange,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Orange,Ribbon Plastic Duo Black Orange
+Cable,,Ribbon Plastic Duo Black Pink,,Y,400,20,1,1.0,Ribbon,Plastic,Duo,Pink,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Pink,Ribbon Plastic Duo Black Pink
+Cable,,Ribbon Plastic Duo Black Purple,,Y,400,20,1,1.0,Ribbon,Plastic,Duo,Purple,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Purple,Ribbon Plastic Duo Black Purple
+Cable,,Ribbon Plastic Duo Black Red,,Y,400,19,1,1.0,Ribbon,Plastic,Duo,Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Red,Ribbon Plastic Duo Black Red
+Cable,,Ribbon Plastic Duo Black White,,Y,400,19,1,1.0,Ribbon,Plastic,Duo,White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_White,Ribbon Plastic Duo Black White
+Cable,,Ribbon Plastic Duo Black Yellow,,Y,400,21,1,1.0,Ribbon,Plastic,Duo,Yellow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Bi_Black_Yellow,Ribbon Plastic Duo Black Yellow
+Cable,,Ribbon Plastic Green,,Y,100,6,1,1.0,Ribbon,Plastic,Plain,Green,,Y,,,Prefabs/Cables/Ribbon_Plastic_Green,Ribbon Plastic Green
+Cable,,Ribbon Plastic Light Grey,,Y,100,8,1,1.0,Ribbon,Plastic,Plain,Light Grey,,Y,,,Prefabs/Cables/Ribbon_Plastic_Grey_Light,Ribbon Plastic Light Grey
+Cable,,Ribbon Plastic Lime,,Y,100,8,1,1.0,Ribbon,Plastic,Plain,Lime,,Y,,,Prefabs/Cables/Ribbon_Plastic_Lime,Ribbon Plastic Lime
+Cable,,Ribbon Plastic Orange,,Y,100,6,1,1.0,Ribbon,Plastic,Plain,Orange,,Y,,,Prefabs/Cables/Ribbon_Plastic_Orange,Ribbon Plastic Orange
+Cable,,Ribbon Plastic Patterned Blue White,,Y,400,28,1,1.0,Ribbon,Plastic,Patterned,Blue/White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Blue_White,Ribbon Plastic Patterned Blue White
+Cable,,Ribbon Plastic Patterned Blue Yellow,,Y,400,24,1,1.0,Ribbon,Plastic,Patterned,Blue/Yellow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Blue_Yellow,Ribbon Plastic Patterned Blue Yellow
+Cable,,Ribbon Plastic Patterned Blue Yellow Green,,Y,400,25,1,1.0,Ribbon,Plastic,Patterned,Blue/Yellow/Green,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Blue_Yellow_Green,Ribbon Plastic Patterned Blue Yellow Green
+Cable,,Ribbon Plastic Patterned Blue Yellow Red,,Y,400,27,1,1.0,Ribbon,Plastic,Patterned,Blue/Yellow/Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Blue_Yellow_Red,Ribbon Plastic Patterned Blue Yellow Red
+Cable,,Ribbon Plastic Patterned Cyan White,,Y,400,26,1,1.0,Ribbon,Plastic,Patterned,Cyan/White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Cyan_White,Ribbon Plastic Patterned Cyan White
+Cable,,Ribbon Plastic Patterned Green Red,,Y,400,27,1,1.0,Ribbon,Plastic,Patterned,Green/Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Green_Red,Ribbon Plastic Patterned Green Red
+Cable,,Ribbon Plastic Patterned Green White,,Y,400,26,1,1.0,Ribbon,Plastic,Patterned,Green/White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Green_White,Ribbon Plastic Patterned Green White
+Cable,,Ribbon Plastic Patterned Green White Red,,Y,400,25,1,1.0,Ribbon,Plastic,Patterned,Green/White/Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Green_White_Red,Ribbon Plastic Patterned Green White Red
+Cable,,Ribbon Plastic Patterned Lime Black Grey,,Y,400,24,1,1.0,Ribbon,Plastic,Patterned,Lime/Black/Light Grey,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Lime_Black_Grey,Ribbon Plastic Patterned Lime Black Grey
+Cable,,Ribbon Plastic Patterned Orange White,,Y,400,28,1,1.0,Ribbon,Plastic,Patterned,Orange/White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Orange_White,Ribbon Plastic Patterned Orange White
+Cable,,Ribbon Plastic Patterned Orange White Green,,Y,400,25,1,1.0,Ribbon,Plastic,Patterned,Orange/White/Green,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Orange_White_Green,Ribbon Plastic Patterned Orange White Green
+Cable,,Ribbon Plastic Patterned Purple Black,,Y,400,27,1,1.0,Ribbon,Plastic,Patterned,Purple/Black,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Purple_Black,Ribbon Plastic Patterned Purple Black
+Cable,,Ribbon Plastic Patterned Purple White,,Y,400,27,1,1.0,Ribbon,Plastic,Patterned,Purple/White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Purple_White,Ribbon Plastic Patterned Purple White
+Cable,,Ribbon Plastic Patterned Red Green White Black,,Y,400,26,1,1.0,Ribbon,Plastic,Patterned,Green/White/Black,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Red_Green_White_Black,Ribbon Plastic Patterned Red Green White Black
+Cable,,Ribbon Plastic Patterned Red White Blue,,Y,400,24,1,1.0,Ribbon,Plastic,Patterned,Red/White/Blue,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Red_White_Blue,Ribbon Plastic Patterned Red White Blue
+Cable,,Ribbon Plastic Patterned Red Yellow,,Y,400,25,1,1.0,Ribbon,Plastic,Patterned,Red/Yellow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Red_Yellow,Ribbon Plastic Patterned Red Yellow
+Cable,,Ribbon Plastic Patterned Red Yellow Black,,Y,400,24,1,1.0,Ribbon,Plastic,Patterned,Red/Yellow/Black,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_Red_Yellow_Black,Ribbon Plastic Patterned Red Yellow Black
+Cable,,Ribbon Plastic Patterned White Pink,,Y,400,28,1,1.0,Ribbon,Plastic,Patterned,White/Pink,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_White_Pink,Ribbon Plastic Patterned White Pink
+Cable,,Ribbon Plastic Patterned White Red,,Y,400,28,1,1.0,Ribbon,Plastic,Patterned,White/Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_White_Red,Ribbon Plastic Patterned White Red
+Cable,,Ribbon Plastic Patterned White Red Blue Black,,Y,400,26,1,1.0,Ribbon,Plastic,Patterned,Red/Blue/Black,,Y,,,Prefabs/Cables/Ribbon_Plastic_Ptrn_White_Red_Blue_Black,Ribbon Plastic Patterned White Red Blue Black
+Cable,,Ribbon Plastic Pink,,Y,100,7,1,1.0,Ribbon,Plastic,Plain,Pink,,Y,,,Prefabs/Cables/Ribbon_Plastic_Pink,Ribbon Plastic Pink
+Cable,,Ribbon Plastic Purple,,Y,100,7,1,1.0,Ribbon,Plastic,Plain,Purple,,Y,,,Prefabs/Cables/Ribbon_Plastic_Purple,Ribbon Plastic Purple
+Cable,,Ribbon Plastic Rainbow,,Y,400,30,1,1.0,Ribbon,Plastic,,Rainbow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Rainbow,Ribbon Plastic Rainbow
+Cable,,Ribbon Plastic Red,,Y,100,5,1,1.0,Ribbon,Plastic,Plain,Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Red,Ribbon Plastic Red
+Cable,,Ribbon Plastic Striped Black Blue,,Y,400,22,1,1.0,Ribbon,Plastic,Striped,Black/Blue,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Blue,Ribbon Plastic Striped Black Blue
+Cable,,Ribbon Plastic Striped Black Green,,Y,400,23,1,1.0,Ribbon,Plastic,Striped,Black/Green,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Green,Ribbon Plastic Striped Black Green
+Cable,,Ribbon Plastic Striped Black Lime,,Y,400,25,1,1.0,Ribbon,Plastic,Striped,Black/Lime,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Lime,Ribbon Plastic Striped Black Lime
+Cable,,Ribbon Plastic Striped Black Orange,,Y,400,23,1,1.0,Ribbon,Plastic,Striped,Black/Orange,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Orange,Ribbon Plastic Striped Black Orange
+Cable,,Ribbon Plastic Striped Black Pink,,Y,400,24,1,1.0,Ribbon,Plastic,Striped,Black/Pink,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Pink,Ribbon Plastic Striped Black Pink
+Cable,,Ribbon Plastic Striped Black Purple,,Y,400,24,1,1.0,Ribbon,Plastic,Striped,Black/Purple,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Purple,Ribbon Plastic Striped Black Purple
+Cable,,Ribbon Plastic Striped Black Red,,Y,400,22,1,1.0,Ribbon,Plastic,Striped,Black/Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Red,Ribbon Plastic Striped Black Red
+Cable,,Ribbon Plastic Striped Black White,,Y,400,22,1,1.0,Ribbon,Plastic,Striped,Black/White,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_White,Ribbon Plastic Striped Black White
+Cable,,Ribbon Plastic Striped Black Yellow,,Y,400,25,1,1.0,Ribbon,Plastic,Striped,Black/Yellow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_Black_Yellow,Ribbon Plastic Striped Black Yellow
+Cable,,Ribbon Plastic Striped White Blue,,Y,400,22,1,1.0,Ribbon,Plastic,Striped,White/Blue,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Blue,Ribbon Plastic Striped White Blue
+Cable,,Ribbon Plastic Striped White Green,,Y,400,23,1,1.0,Ribbon,Plastic,Striped,White/Green,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Green,Ribbon Plastic Striped White Green
+Cable,,Ribbon Plastic Striped White Lime,,Y,400,25,1,1.0,Ribbon,Plastic,Striped,White/Lime,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Lime,Ribbon Plastic Striped White Lime
+Cable,,Ribbon Plastic Striped White Orange,,Y,400,23,1,1.0,Ribbon,Plastic,Striped,White/Orange,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Orange,Ribbon Plastic Striped White Orange
+Cable,,Ribbon Plastic Striped White Pink,,Y,400,24,1,1.0,Ribbon,Plastic,Striped,White/Pink,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Pink,Ribbon Plastic Striped White Pink
+Cable,,Ribbon Plastic Striped White Purple,,Y,400,24,1,1.0,Ribbon,Plastic,Striped,White/Purple,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Purple,Ribbon Plastic Striped White Purple
+Cable,,Ribbon Plastic Striped White Red,,Y,400,22,1,1.0,Ribbon,Plastic,Striped,White/Red,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Red,Ribbon Plastic Striped White Red
+Cable,,Ribbon Plastic Striped White Yellow,,Y,400,25,1,1.0,Ribbon,Plastic,Striped,White/Yellow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Strpy_White_Yellow,Ribbon Plastic Striped White Yellow
+Cable,,Ribbon Plastic White,,Y,100,1,1,1.0,Ribbon,Plastic,Plain,White,,Y,,,Prefabs/Cables/Ribbon_Plastic_White,Ribbon Plastic White
+Cable,,Ribbon Plastic Yellow,,Y,100,8,1,1.0,Ribbon,Plastic,Plain,Yellow,,Y,,,Prefabs/Cables/Ribbon_Plastic_Yellow,Ribbon Plastic Yellow
+Cable,,Sleeved Braided Black,,Y,200,9,1,1.0,Sleeved,Braided,Plain,Black,,Y,,,Prefabs/Cables/Sleeved_Braided_Black,Sleeved Braided Black
+Cable,,Sleeved Braided Blue,,Y,200,10,1,1.0,Sleeved,Braided,Plain,Blue,,Y,,,Prefabs/Cables/Sleeved_Braided_Blue,Sleeved Braided Blue
+Cable,,Sleeved Braided Green,,Y,200,11,1,1.0,Sleeved,Braided,Plain,Green,,Y,,,Prefabs/Cables/Sleeved_Braided_Green,Sleeved Braided Green
+Cable,,Sleeved Braided Orange,,Y,200,11,1,1.0,Sleeved,Braided,Plain,Orange,,Y,,,Prefabs/Cables/Sleeved_Braided_Orange,Sleeved Braided Orange
+Cable,,Sleeved Braided Pink,,Y,200,12,1,1.0,Sleeved,Braided,Plain,Pink,,Y,,,Prefabs/Cables/Sleeved_Braided_Pink,Sleeved Braided Pink
+Cable,,Sleeved Braided Purple,,Y,200,12,1,1.0,Sleeved,Braided,Plain,Purple,,Y,,,Prefabs/Cables/Sleeved_Braided_Purple,Sleeved Braided Purple
+Cable,,Sleeved Braided Red,,Y,200,10,1,1.0,Sleeved,Braided,Plain,Red,,Y,,,Prefabs/Cables/Sleeved_Braided_Red,Sleeved Braided Red
+Cable,,Sleeved Braided White,,Y,200,9,1,1.0,Sleeved,Braided,Plain,White,,Y,,,Prefabs/Cables/Sleeved_Braided_White,Sleeved Braided White
+Cable,,Sleeved Plastic Black,,Y,100,1,1,1.0,Sleeved,Plastic,Plain,Black,,Y,,Y,Prefabs/Cables/Sleeved_Plastic_Black,Sleeved Plastic Black
+Cable,,Sleeved Plastic Blue,,Y,100,5,1,1.0,Sleeved,Plastic,Plain,Blue,,Y,,,Prefabs/Cables/Sleeved_Plastic_Blue,Sleeved Plastic Blue
+Cable,,Sleeved Plastic Green,,Y,100,6,1,1.0,Sleeved,Plastic,Plain,Green,,Y,,,Prefabs/Cables/Sleeved_Plastic_Green,Sleeved Plastic Green
+Cable,,Sleeved Plastic Orange,,Y,100,6,1,1.0,Sleeved,Plastic,Plain,Orange,,Y,,,Prefabs/Cables/Sleeved_Plastic_Orange,Sleeved Plastic Orange
+Cable,,Sleeved Plastic Pink,,Y,100,7,1,1.0,Sleeved,Plastic,Plain,Pink,,Y,,,Prefabs/Cables/Sleeved_Plastic_Pink,Sleeved Plastic Pink
+Cable,,Sleeved Plastic Purple,,Y,100,7,1,1.0,Sleeved,Plastic,Plain,Purple,,Y,,,Prefabs/Cables/Sleeved_Plastic_Purple,Sleeved Plastic Purple
+Cable,,Sleeved Plastic Red,,Y,100,5,1,1.0,Sleeved,Plastic,Plain,Red,,Y,,,Prefabs/Cables/Sleeved_Plastic_Red,Sleeved Plastic Red
+Cable,,Sleeved Plastic White,,Y,100,1,1,1.0,Sleeved,Plastic,Plain,White,,Y,,Y,Prefabs/Cables/Sleeved_Plastic_White,Sleeved Plastic White
+Cable,,Tight Plastic Black,,Y,100,1,1,1.0,Tight,Plastic,Plain,Black,,Y,,,Prefabs/Cables/Tight_Plastic_Black,Tight Plastic Black
+Cable,,Tight Plastic Blue,,Y,100,5,1,1.0,Tight,Plastic,Plain,Blue,,Y,,,Prefabs/Cables/Tight_Plastic_Blue,Tight Plastic Blue
+Cable,,Tight Plastic Green,,Y,100,6,1,1.0,Tight,Plastic,Plain,Green,,Y,,,Prefabs/Cables/Tight_Plastic_Green,Tight Plastic Green
+Cable,,Tight Plastic Orange,,Y,100,6,1,1.0,Tight,Plastic,Plain,Orange,,Y,,,Prefabs/Cables/Tight_Plastic_Orange,Tight Plastic Orange
+Cable,,Tight Plastic Pink,,Y,100,7,1,1.0,Tight,Plastic,Plain,Pink,,Y,,,Prefabs/Cables/Tight_Plastic_Pink,Tight Plastic Pink
+Cable,,Tight Plastic Purple,,Y,100,7,1,1.0,Tight,Plastic,Plain,Purple,,Y,,,Prefabs/Cables/Tight_Plastic_Purple,Tight Plastic Purple
+Cable,,Tight Plastic Red,,Y,100,5,1,1.0,Tight,Plastic,Plain,Red,,Y,,,Prefabs/Cables/Tight_Plastic_Red,Tight Plastic Red
+Cable,,Tight Plastic White,,Y,100,1,1,1.0,Tight,Plastic,Plain,White,,Y,,,Prefabs/Cables/Tight_Plastic_White,Tight Plastic White
