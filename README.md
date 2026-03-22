@@ -62,9 +62,16 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 
 ---
 
+### <img src="https://cdn-icons-png.flaticon.com/128/6121/6121171.png" width="25"> Bug Reports<br><br>
+
+This program is very new, so I fully expect there to be bugs. If you encounter any issues while using PCBS-Forge, please let me know! You can submit an issue [here](https://github.com/Rilichime/Rilichime-s-PCBS-Forge/issues) or contact me on Discord @Chimeria.
+
+---
+
 ### <img src="https://cdn-icons-png.flaticon.com/128/4955/4955340.png" width="25"> Credits<br><br>
 - CSV data compiled from [PUC_Snakeman's Parts & Unlock Levels](https://steamcommunity.com/sharedfiles/filedetails/?id=1798336403) spreadsheet
 - Star icon made by Freepik from https://www.flaticon.com/free-icon/star_616489
 - Question icon made by riajulislam from https://www.flaticon.com/free-icon/question-mark_9797618
 - Hands icon made by Smashicons from https://www.flaticon.com/free-icon/hands_4955340
 - Book icon made by popo2021 from https://www.flaticon.com/free-icon/stack-of-books_5832416
+- Alert icon made by DinosoftLabs from https://www.flaticon.com/free-icon/alert_6121171
