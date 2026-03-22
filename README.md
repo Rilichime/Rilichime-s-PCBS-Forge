@@ -39,7 +39,8 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 **Download & Install**
 1. You will need to install Python. You can download the installer for Python [here](https://www.python.org/downloads/).
 2. Download the latest release of this program here.
-3. Open the file `run_app_simple_silent.bat` to run PCBS-Forge.
+3. Right-click and extract `PCBS Forge by Rilichime.zip` folder.
+4. Open the file `run_app_simple_silent.bat` to run PCBS-Forge.
 
 **Adding Parts To Inventory**
 1. In the **Used Parts** tab or the **New Parts** tab, use the search box at the top
