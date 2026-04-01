@@ -5,8 +5,6 @@
 ### <img src="https://cdn-icons-png.flaticon.com/128/9797/9797618.png" width="25"> About PCBS-Forge<br><br>
 PCBS-Forge is a Python program built to be used during your PCBS playthroughs. It was made in Windsurf using Kimi K2.5 and Opus 4.6. 
 
-[VirusTotal results](https://www.virustotal.com/gui/url/aa2819aa3efdfa0f18117c97d451ff94a18ef3a6026833b5d84e4384a72ec6f2?nocache=1) (so you know the program is safe) 
-
 ---
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/616/616489.png" width="25"> Features<br><br>
@@ -43,16 +41,32 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 
 </details>
 
+---
+
+### <img src="https://www.flaticon.com/free-icon/alert_6121171" width="25"> Antivirus<br><br>
+
+Some Antivirus may flag this as suspicious due to PyInstaller packing. This is a known false positive. The app is 100% open source - you can inspect the code yourself.
+Options: 1) Run the EXE and click "Run anyway" in Windows Defender, or 2) Run from source
+
+---
+
 ### <img src="https://cdn-icons-png.flaticon.com/128/5832/5832416.png" width="25"> User Guide<br><br>
 
-**Download & Install**
+**Download & Run Program**
 1. Download the latest release of this program [here](https://github.com/Rilichime/Rilichime-s-PCBS-Forge/releases) (under Assets, you should see `PCBS-Forge.exe`)
 2. Find the file on your computer (check the Downloads folder if you can't find it)
 3. Run the .exe file
-4. The program should start loading and will be useable after it loads
+4. If Windows Defender interferes, find where it says More Options and click Run Anyway.
+5. The program is now ready for your use
+
+**Download & Run Source Code**
+1. Install Python (Version 3.10+) from [python.org](https://www.python.org/downloads/)
+2. Download source zip [here](https://github.com/Rilichime/Rilichime-s-PCBS-Forge/releases) (under Assets, you should see `PCBS-Forge-2.0.0.zip`)
+3. Run command pip install -r requirements.txt
+4. Run file python main_entry.py
 
 **Adding Parts To Inventory**
-1. In the **Used Parts** tab or the **New Parts** tab, use the search box at the top
+1. In the **Used Parts** tab or the New Parts tab, use the search box at the top
 2. Type part of a part name (e.g., "corsair 120mm")
 3. Double-click suggestions in the list
 4. Each part becomes an individual entry in the inventory
@@ -96,3 +110,4 @@ You may also contact me (via Discord or the link above) with any questions or fe
 - Hands icon made by Smashicons from https://www.flaticon.com/free-icon/hands_4955340
 - Book icon made by popo2021 from https://www.flaticon.com/free-icon/stack-of-books_5832416
 - Alert icon made by DinosoftLabs from https://www.flaticon.com/free-icon/alert_6121171
+- Bug icon made by Freepik from https://www.flaticon.com/free-icon/bed-bug_1850178
