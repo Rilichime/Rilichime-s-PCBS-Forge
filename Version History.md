@@ -7,3 +7,6 @@ First release of the program.
 - Cleaned up some redundant code, standardized the error logging to use logger consistently instead of print, removed live update feature for configs, and changed all references to PCBuilderApp to Rilichimes-PCBS-Forge.
 - Added an accessability config file that will save user preferences instead of returning to default each time the program is loaded.
 - Filters have been adjusted slightly. Columns that have numeric values now have an input for min and max thresholds. 
+
+### 2.0.0
+- Major recode of the entire program.
