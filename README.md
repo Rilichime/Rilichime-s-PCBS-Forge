@@ -43,7 +43,7 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 
 ---
 
-### <img src="https://www.flaticon.com/free-icon/alert_6121171" width="25"> Antivirus<br><br>
+### <img src="https://cdn-icons-png.flaticon.com/128/6121/6121171.png" width="25"> Antivirus<br><br>
 
 Some Antivirus may flag this as suspicious due to PyInstaller packing. This is a known false positive. The app is 100% open source - you can inspect the code yourself.
 Options: 1) Run the EXE and click "Run anyway" in Windows Defender, or 2) Run from source
@@ -92,7 +92,6 @@ Options: 1) Run the EXE and click "Run anyway" in Windows Defender, or 2) Run fr
 5. Fill in Customer Original Parts
 6. Click Run Auto Build
 7. Best build will be displayed in the Player Chosen Parts.
-
 
 ---
 
