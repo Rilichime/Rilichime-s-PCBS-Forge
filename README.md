@@ -10,7 +10,7 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 ### <img src="https://cdn-icons-png.flaticon.com/128/616/616489.png" width="25"> Features<br><br>
 
 **UI**
-- **Dark theme with larger text options**, featuring easy-to-read fonts and five adjustable font sizes for accessibility  
+- **Dark theme with larger text options**, featuring easy-to-read fonts and larger text size option for accessibility  
 - **Quick copy for part names** — double-click to copy full part names, then paste in-game with Ctrl + V  
 - **Clean, intuitive design** that’s easy to navigate and understand
 - **Settings tab** that allows you to customize your PCBS-Forge experience
@@ -18,7 +18,8 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 **Inventory**
 - **Live part search** with suggestions, allowing you to quickly find and add parts to your inventory  
 - **Advanced sorting and filtering** based on a wide range of specifications  
-- **HEM mod support** — enable and configure HEM parts directly in the Settings tab  
+- **HEM mod support** — enable and configure HEM parts directly in the Settings tab
+- **Screenshot parts** to easily bulk add parts to inventory.
 
 **Builds & Jobs**
 - **Job tracking system** to help you manage and organize parts for each job  
@@ -45,7 +46,7 @@ PCBS-Forge is a Python program built to be used during your PCBS playthroughs. I
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/6121/6121171.png" width="25"> Antivirus<br><br>
 
-Some Antivirus may flag this as suspicious due to PyInstaller packing. This is a known false positive. The app is 100% open source - you can inspect the code yourself.
+Some Antivirus may flag this as suspicious due to PyInstaller packing. This is a known false positive. The app is not harmful, and it's 100% open source - you can inspect the code yourself.
 Options: 1) Run the EXE and click "Run anyway" in Windows Defender, or 2) Run from source
 
 ---
@@ -66,10 +67,20 @@ Options: 1) Run the EXE and click "Run anyway" in Windows Defender, or 2) Run fr
 4. Run file python main_entry.py
 
 **Adding Parts To Inventory**
-1. In the **Used Parts** tab or the New Parts tab, use the search box at the top
+1. In the Used Parts tab or the New Parts tab, use the search box at the top
 2. Type part of a part name (e.g., "corsair 120mm")
 3. Double-click suggestions in the list
 4. Each part becomes an individual entry in the inventory
+
+**Adding Parts Via Screenshot**
+1. Take a screenshot in-game using the PrtScn key. You can screenshot the list of customer parts from the PC, the list of parts in your cart in the shop, or from your inventory. (Make sure to filter New only or Used only when using the inventory)
+2. Find the "Screenshot" tab with the camera icon (You can find this inside the Used Parts, New Parts, and Jobs tabs. For Jobs, you will want to look under Original Customer Parts in the Job Build section)
+3. Click the blue Paste button to paste your screenshot
+4. A crop window will appear. Crop the screenshot so that just the names of parts are inside the red lines
+5. Continue adding and cropping images (up to 50 at a time)
+6. Once all images are added, click the green + button.
+6. Check for errors and manually add any parts that were not properly detected via the Search tab.
+7. The parts should now be listed in your inventory
 
 **Creating Builds**
 1. Switch to the Builds tab
