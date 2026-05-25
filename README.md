@@ -3,35 +3,44 @@
 ### A desktop application for PC Building Simulator that helps you manage inventory, create builds, track jobs, and check compatibility.
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/128/9797/9797618.png" width="25"> About PCBS-Forge<br><br>
-PCBS-Forge is a Python program built to be used during your PCBS playthroughs. It was made in Windsurf using Kimi K2.5 and Opus 4.6. 
+PCBS-Forge is a Python program built to be used during your PCBS playthroughs. It was made in Windsurf using Kimi K2.5, Kimi K2.6, and Opus 4.6. 
 
 ---
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/616/616489.png" width="25"> Features<br><br>
 
 **UI**
-- **Dark theme with larger text options**, featuring easy-to-read fonts and larger text size option for accessibility  
-- **Quick copy for part names** — double-click to copy full part names, then paste in-game with Ctrl + V  
+- **Dark theme with larger text options**, featuring easy-to-read fonts and 2x text size option for accessibility
+- **Quick copy for part names** — double-click to copy full part names, then paste in-game with Ctrl + V
 - **Clean, intuitive design** that’s easy to navigate and understand
 - **Settings tab** that allows you to customize your PCBS-Forge experience
 
 **Inventory**
+- **Separate tabs** for new parts and used parts
 - **Live part search** with suggestions, allowing you to quickly find and add parts to your inventory  
 - **Advanced sorting and filtering** based on a wide range of specifications  
 - **HEM mod support** — enable and configure HEM parts directly in the Settings tab
 - **Screenshot parts** to easily bulk add parts to inventory.
+- **Delete all button** in case you need to remove all parts
 
 **Builds & Jobs**
 - **Job tracking system** to help you manage and organize parts for each job  
 - **Compatibility checks** that warn you when selecting incompatible parts  
-- **Replacement validation** that alerts you when using inferior parts in customer builds  
+- **Inferior parts warning** that alerts you if a customer build has an inferior part  
 - **Budget tracking** that calculates total costs and remaining funds
 - **Completion management** — mark builds or jobs as complete to automatically remove used parts from inventory  
 - **3DMark score and PC value previews** to optimize builds for PCBay selling
 - **Builds use only used parts, Jobs use only new parts** for maximum profits
 - **Bonus objective tracker** for cables, viruses, dust removal, and brand requirements  
-- **Smart job assistance** that highlights replaceable parts and locks restricted slots
-- **Auto Build feature** automatically meets all job criteria and picks parts for you to order
+- **Smart job assistance** that shows replaceable parts and locks restricted slots
+
+**Auto Build Feature**
+- **Chooses parts** based on which is chepest while meeting requirements
+- **Fulfills all criteria** such as RAM size, 3DMark, brand, program
+- **Ensures compatability** and checks that new parts are not inferior
+- **Replaces all possible parts** while respecting budget
+- **Budget-aware pruning** based on priority list in Settings tab
+- **Marks parts to purchase** so you know what you need to buy
 
 ---
 
