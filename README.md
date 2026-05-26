@@ -75,43 +75,42 @@ Options: 1) Run the EXE and click "Run anyway" in Windows Defender, or 2) Run fr
 3. Run command pip install -r requirements.txt
 4. Run file python main_entry.py
 
-**Adding Parts To Inventory**
-1. In the Used Parts tab or the New Parts tab, use the search box at the top
+**Adding Parts To Inventory Via Search**
+1. In the Used Parts tab or the New Parts tab, click the Search tab at the top
 2. Type part of a part name (e.g., "corsair 120mm")
 3. Double-click suggestions in the list
 4. Each part becomes an individual entry in the inventory
 
 **Adding Parts Via Screenshot**
-1. Take a screenshot in-game using the PrtScn key. You can screenshot the list of customer parts from the PC, the list of parts in your cart in the shop, or from your inventory. (Make sure to filter New only or Used only when using the inventory)
-2. Find the "Screenshot" tab with the camera icon (You can find this inside the Used Parts, New Parts, and Jobs tabs. For Jobs, you will want to look under Original Customer Parts in the Job Build section)
-3. Click the blue Paste button to paste your screenshot
+1. Take a screenshot in-game using the PrtScn key. You can screenshot the list of customer parts from the PC, the list of parts in your cart in the shop, or from your inventory (make sure to filter New only or Used only)
+2. Find the "Screenshot" tab (inside the Used Parts, New Parts, and Jobs tabs)
+3. Click the first button (blue button) to paste your screenshot
 4. A crop window will appear. Crop the screenshot so that just the names of parts are inside the red lines
 5. Continue adding and cropping images (up to 50 at a time)
-6. Once all images are added, click the green + button.
-6. Check for errors and manually add any parts that were not properly detected via the Search tab.
-7. The parts should now be listed in your inventory
+6. Once all images are added, click the second button (green button)
+7. A pop-up with a list of what text was detected and what part was added will appear. Check this to ensure it is correct
+8. The parts should now be listed in the inventory
 
-**Creating Builds**
-1. Switch to the Builds tab
-2. Click "New Build" and enter a name
-3. Go back to Inventory tab
-4. Click "Add" on parts you want to add
+**Creating Builds / Jobs**
+1. Switch to the Builds or Jobs tab
+2. Click the first button (green button) and enter the name of the build/customer
+3. Go back to Used Parts (for builds) or New Parts (for jobs)
+4. Click the green button (first column) for parts you want to add
 5. Parts will be automatically placed in appropriate slots
 
 **Completing Builds / Jobs**
-1. Select a build in the Builds tab or a job in the Jobs tab
-2. Click Complete Build or Complete Job
+1. Select a job or build from the drop-down in the Jobs or Builds tab
+2. Click the last button (blue button)
 3. Confirm the action
-4. Included parts are removed from inventory and the build/job is deleted
+4. Included parts are removed from the parts inventory and the build/job is deleted
 
 **Using Auto Build**
-1. Select a job in the Jobs tab
-2. Enter level & budget information
-3. Select Job Details
-4. Fill in Bonus Objectives if applicable
-5. Fill in Customer Original Parts
-6. Click Run Auto Build
-7. Best build will be displayed in the Player Chosen Parts.
+1. Select or create a job in the Jobs tab
+2. Enter Level & Budget information
+3. Select Job Details and fill in Bonus Objectives if applicable
+5. Fill in Customer Original Parts (if applicable)
+6. Click the Auto-Build tab, then click the blue button
+7. Best build will be displayed in the Player Chosen Parts or New PC Build section
 
 ---
 
